@@ -1,8 +1,8 @@
-StartChar: P
-Encoding: 80 80 15
+StartChar: p
+Encoding: 112 112 42
 Width: 687
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 59 26<72.3299 503.33>
 LayerCount: 2
 Fore

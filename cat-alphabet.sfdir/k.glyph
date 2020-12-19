@@ -1,8 +1,8 @@
-StartChar: K
-Encoding: 75 75 11
+StartChar: k
+Encoding: 107 107 37
 Width: 735
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 476 122<252.574 281.574 368.574 398.574>
 VStem: 247.574 41<476 598> 363.574 41<475 595>
 LayerCount: 2

@@ -1,8 +1,8 @@
-StartChar: Q
-Encoding: 81 81 16
+StartChar: q
+Encoding: 113 113 43
 Width: 837
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -27 40<383 446>
 VStem: 65 0<160 188> 96 8<56 76> 145 14<-6 19> 351 40<328 443> 511 40<321 436> 661 18<-18 67> 730 13<63 84> 785 5<134 182>
 LayerCount: 2

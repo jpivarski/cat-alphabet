@@ -1,8 +1,8 @@
-StartChar: Z
-Encoding: 90 90 25
+StartChar: z
+Encoding: 122 122 52
 Width: 847
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 367 143<461.993 555.993>
 VStem: 76.9932 58<413 566> 395.993 12<26 178>
 LayerCount: 2

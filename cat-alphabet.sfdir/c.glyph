@@ -1,8 +1,8 @@
-StartChar: C
-Encoding: 67 67 3
+StartChar: c
+Encoding: 99 99 29
 Width: 433
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 216 27<-86 130> 453 27<-81 135>
 VStem: -125 40<242 453> 130 37<242 453>
 LayerCount: 2

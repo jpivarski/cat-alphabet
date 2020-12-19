@@ -1,8 +1,8 @@
-StartChar: W
-Encoding: 87 87 22
+StartChar: w
+Encoding: 119 119 49
 Width: 955
 VWidth: 0
-Flags: HW
+Flags: W
 VStem: 464.641 40<278 393> 624.641 40<271 387>
 LayerCount: 2
 Fore
