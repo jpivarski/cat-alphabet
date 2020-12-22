@@ -1,2 +1,3 @@
 # cat-alphabet
-For writing things in Catavian.
+
+For writing things in Cattavyan.
