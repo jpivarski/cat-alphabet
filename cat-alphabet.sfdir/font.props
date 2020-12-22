@@ -1,14 +1,14 @@
 SplineFontDB: 3.2
-FontName: Catavian
-FullName: Catavian
-FamilyName: Catavian
+FontName: Cattavyan
+FullName: Cattavyan
+FamilyName: Cattavyan
 Weight: Regular
 Copyright: Copyright (c) 2020, Jim Pivarski
 UComments: "2020-12-12: Created with FontForge (http://fontforge.org)"
 Version: 001.000
 ItalicAngle: 0
-UnderlinePosition: -102
-UnderlineWidth: 51
+UnderlinePosition: -101.376
+UnderlineWidth: 50.176
 Ascent: 819
 Descent: 205
 InvalidEm: 0
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1607797287
-ModificationTime: 1608410080
+ModificationTime: 1608668366
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -51,7 +51,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 42 21 5
+WinInfo: 0 21 5
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 1048576 524288 349525 0 1048576 349525 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144

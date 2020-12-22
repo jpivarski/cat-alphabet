@@ -1,6 +1,6 @@
 StartChar: a
 Encoding: 97 97 27
-Width: 457
+Width: 456
 VWidth: 0
 Flags: HW
 LayerCount: 2
@@ -12,9 +12,10 @@ SplineSet
  93 325 110 250 165 218 c 0
  220 186 292 209 328 269 c 0
 353 255 m 0
- 309 179 218 151 149 191 c 0
- 80 231 60 323 104 399 c 0
+ 309 179 219 151 150 191 c 0
+ 81 231 60 323 104 399 c 0
  148 475 239 503 308 463 c 0
  377 423 397 331 353 255 c 0
 EndSplineSet
+Validated: 33
 EndChar

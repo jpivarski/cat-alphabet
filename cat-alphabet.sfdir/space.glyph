@@ -1,9 +1,18 @@
 StartChar: space
 Encoding: 32 32 26
-Width: 1024
+Width: 799
 VWidth: 0
 Flags: HW
+HStem: 61 4<397 403>
+VStem: 397 6<61 66>
 LayerCount: 2
 Fore
+SplineSet
+397 66 m 1
+ 403 66 l 1
+ 403 61 l 1
+ 397 61 l 1
+ 397 66 l 1
+EndSplineSet
 Validated: 1
 EndChar
